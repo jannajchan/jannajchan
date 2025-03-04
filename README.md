@@ -1,4 +1,8 @@
-## Hi there 👋
+## About me 👋
+
+- 🔭 I’m currently working on refreshing my IT knowledge.
+- 🌱 I’m currently learning GitHub and Python.
+- ✨ In my free time, I enjoy listening to music and exploring e-learning courses.
 
 <!--
 **jannajchan/jannajchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
