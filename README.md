@@ -1,7 +1,6 @@
 ## About me 👋
 
 - 🔭 I’m currently working on refreshing my IT knowledge.
-- 🌱 I’m currently learning GitHub and Python.
 - ✨ In my free time, I enjoy listening to music and exploring e-learning courses.
 
 <!--
