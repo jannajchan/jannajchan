@@ -1,7 +1,8 @@
 ## About me 👋
 
-- 🔭 I’m currently working on refreshing my IT knowledge.
-- ✨ In my free time, I enjoy listening to music and exploring e-learning courses.
+Hi! I’m a career returner with a background in software development and technical support.
+- 🔭 I’m currently working on refreshing my IT knowledge by learning Python and building small projects.
+- ✨ In my free time, I enjoy exploring e-learning courses and listening to music.
 
 <!--
 **jannajchan/jannajchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
